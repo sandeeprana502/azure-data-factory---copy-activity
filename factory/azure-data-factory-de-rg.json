@@ -1,0 +1,9 @@
+{
+	"name": "azure-data-factory-de-rg",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3f9c403a-03d8-4a51-a7f0-bad4c5620136",
+		"tenantId": "b518aee8-d6c0-4825-8fca-39cce6de24a2"
+	}
+}
