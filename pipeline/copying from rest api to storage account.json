@@ -38,7 +38,7 @@
 						"enableCopyActivityLog": true,
 						"copyActivityLogSettings": {
 							"logLevel": "Warning",
-							"enableReliableLogging": true
+							"enableReliableLogging": false
 						},
 						"logLocationSettings": {
 							"linkedServiceName": {
